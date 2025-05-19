@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react'
-import GlobalApi from '../services/GlobalApi'
+import GlobalApi from '../Services/GlobalApi';
 import { HiChevronDoubleLeft } from 'react-icons/hi';
 import { HiChevronDoubleRight } from 'react-icons/hi';
 
